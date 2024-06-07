@@ -1,4 +1,3 @@
-emphysema
 blunt
 density
 elevation
@@ -9,7 +8,6 @@ calcifi
 hyperinflation
 bronchospasm
 asthma
-hernia
 copd
 interstitial markings
 plaque
